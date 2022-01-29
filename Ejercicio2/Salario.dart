@@ -28,3 +28,17 @@ void main() {
   }
 }
 
+/*
+             -- U T M --
+Universidad Tecnologica Metropolitana
+
+   Desarrollo Móvil Multiplataforma
+    Docente: Ing. Joel Ivan Chuc Uc
+    
+Ejercicio 2 - practicas primer parcial
+      Alumno: Cauich Colli Rafael
+          Quinto cuatrimestre
+                Grupo A
+            Primer parcial
+
+*/
